@@ -7,9 +7,7 @@ const Navbar = () => {
   const windSpeed = 12.5; // Valor de velocidad del viento
 
   return (
-    <div className="fixed top-0 left-0 w-full bg-white shadow-md flex items-center justify-between px-4 py-2 z-50">
-      {/* Icono de Velocidad del Viento */}
-      
+    <div className="fixed top-0 left-0 w-full bg-white shadow-md flex items-center justify-between px-4 py-2 z-50">      
 
       <button className="group bg-white shadow rounded-md flex items-center justify-center p-2">
         <FiAlignJustify className="w-6 h-6 text-black" />

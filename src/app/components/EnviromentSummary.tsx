@@ -4,7 +4,6 @@ import StormIcon from '@mui/icons-material/Storm';
 import AirIcon from '@mui/icons-material/Air';
 import SpeedIcon from '@mui/icons-material/Speed';
 import HorizontalBarChart from "./graphs/MinMaxEnviromentGraph";
-import WindDirectionChart from "./graphs/WindDirection";
 import { FaTemperatureLow } from "react-icons/fa";
 
 
@@ -28,7 +27,7 @@ const EnvironmentSummarySection = ({ summaryData }: { summaryData: SummaryData }
       {/* Lista de iconos con valores */}
       <div className="flex flex-col space-y-4 md:w-1/2">
         {/* Bloque Temperatura */}
-        <div className="flex items-center space-x-3 p-2 bg-white rounded shadow">
+        <div className="flex items-center space-x-3 p-2 bg-white rounded shadow-xl">
           <FaTemperatureLow style={{ color: "#f56565" }} className="w-8 h-8" />
           <div>
             <p className="font-medium">Temp (°C)</p>
@@ -38,7 +37,7 @@ const EnvironmentSummarySection = ({ summaryData }: { summaryData: SummaryData }
           </div>
         </div>
         {/* Bloque Velocidad de Viento */}
-        <div className="flex items-center space-x-3 p-2 bg-white rounded shadow">
+        <div className="flex items-center space-x-3 p-2 bg-white rounded shadow-xl">
           <SpeedIcon style={{ color: "#68d391" }} className="w-8 h-8" />
           <div>
             <p className="font-medium">Viento (m/s)</p>

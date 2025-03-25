@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/src/app/styles/pages.css"],"sourcesContent":[".div-color {\r\n    background-color: #F5F5F7;\r\n  }\r\n\r\n  .div-color-bg {\r\n    background-color: #d5d5d5;\r\n  }\r\n\r\n  .red-icon {\r\n    color: #ff5a5a;\r\n  }\r\n  .custom-scroll::-webkit-scrollbar {\r\n    width: 8px;\r\n  }\r\n  \r\n  .custom-scroll::-webkit-scrollbar-track {\r\n    background: #f1f1f1;\r\n    border-radius: 4px;\r\n  }\r\n  \r\n  .custom-scroll::-webkit-scrollbar-thumb {\r\n    background-color: #888;\r\n    border-radius: 4px;\r\n  }\r\n  \r\n  .custom-scroll::-webkit-scrollbar-thumb:hover {\r\n    background: #555;\r\n  }"],"names":[],"mappings":"AAAA;;;;AAIE;;;;AAIA;;;;AAGA;;;;AAIA;;;;;AAKA;;;;;AAKA"}},
+    {"offset": {"line": 30, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
