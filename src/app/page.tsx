@@ -10,6 +10,7 @@ import EnvironmentSummary from "./components/EnviromentSummary";
 import HorizontalBarChart from "./components/graphs/MinMaxEnviromentGraph";
 import EnvironmentSummarySection from "./components/EnviromentSummary";
 import SensorsList from "./components/sensorCount";
+import ReportModal from "./components/ModalResumen";
 
 
 const Dashboard = () => {
@@ -63,6 +64,8 @@ const Dashboard = () => {
     return () => socket.close();
   }, []);
 
+  const [openModal, setOpenModal] = useState(false);
+
   return (
     <>
 
@@ -102,7 +105,9 @@ const Dashboard = () => {
           <div className="col-span-2 div-color rounded-lg shadow-xl ">
             <div className="flex justify-start items-center space-x-4 p-4">
               <ResEnviromentIcon />
-              <PlusIcon />
+              <div onClick={() => setOpenModal(true)} style={{ cursor: "pointer" }}>
+                <PlusIcon />
+              </div>
               <TriangleIcon />
             </div> 
 
@@ -111,7 +116,7 @@ const Dashboard = () => {
 
         </div>
       </div>
-
+      <ReportModal open={openModal} onClose={() => setOpenModal(false)} />
     </>
   );
 };
