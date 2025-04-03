@@ -567,6 +567,10 @@
     height: calc(var(--spacing) * 64);
   }
 
+  .h-full {
+    height: 100%;
+  }
+
   .h-screen {
     height: 100vh;
   }
@@ -930,6 +934,14 @@
 
   .\[http\:\/\/mgran\.blogspot\.com\] {
     http:  / / mgran. blogspot. com;
+  }
+
+  .\[resaltar\:irradiancia\] {
+    resaltar: irradiancia;
+  }
+
+  .\[resaltar\:voltaje\] {
+    resaltar: voltaje;
   }
 
   .\[xlink\:href\] {

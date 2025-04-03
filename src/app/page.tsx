@@ -11,6 +11,7 @@ import HorizontalBarChart from "./components/graphs/MinMaxEnviromentGraph";
 import EnvironmentSummarySection from "./components/EnviromentSummary";
 import SensorsList from "./components/sensorCount";
 import ReportModal from "./components/ModalResumen";
+import IrradianceVsPowerGraph from "./components/IrradianceVsPowerGraph";
 
 
 const Dashboard = () => {
@@ -86,7 +87,9 @@ const Dashboard = () => {
               <TriangleIcon />
             </div>
 
-                      {/*aqui van graficas de irradiancia*/}
+            <div className="h-64 px-2">
+              <IrradianceVsPowerGraph />
+            </div>
 
           </div>
 
