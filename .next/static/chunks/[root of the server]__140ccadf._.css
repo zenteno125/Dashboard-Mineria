@@ -733,6 +733,10 @@
     flex-direction: column;
   }
 
+  .flex-wrap {
+    flex-wrap: wrap;
+  }
+
   .items-center {
     align-items: center;
   }
@@ -1006,6 +1010,10 @@
   .ease-out {
     --tw-ease: var(--ease-out);
     transition-timing-function: var(--ease-out);
+  }
+
+  .\[clave\:valor\] {
+    clave: valor;
   }
 
   .\[http\:\/\/mgran\.blogspot\.com\] {

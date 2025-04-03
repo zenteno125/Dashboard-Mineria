@@ -598,185 +598,1047 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$mat
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$CircularProgress$2f$CircularProgress$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__CircularProgress$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/CircularProgress/CircularProgress.js [app-ssr] (ecmascript) <export default as CircularProgress>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$List$2f$List$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__List$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/List/List.js [app-ssr] (ecmascript) <export default as List>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$ListItem$2f$ListItem$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ListItem$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/ListItem/ListItem.js [app-ssr] (ecmascript) <export default as ListItem>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$ListItemText$2f$ListItemText$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ListItemText$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/ListItemText/ListItemText.js [app-ssr] (ecmascript) <export default as ListItemText>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$IconButton$2f$IconButton$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__IconButton$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/IconButton/IconButton.js [app-ssr] (ecmascript) <export default as IconButton>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$TextField$2f$TextField$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__TextField$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/TextField/TextField.js [app-ssr] (ecmascript) <export default as TextField>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/Typography/Typography.js [app-ssr] (ecmascript) <export default as Typography>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/Box/Box.js [app-ssr] (ecmascript) <export default as Box>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Paper$2f$Paper$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Paper$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/Paper/Paper.js [app-ssr] (ecmascript) <export default as Paper>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Divider$2f$Divider$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Divider$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/Divider/Divider.js [app-ssr] (ecmascript) <export default as Divider>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Chip$2f$Chip$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Chip$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/Chip/Chip.js [app-ssr] (ecmascript) <export default as Chip>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$styles$2f$ThemeProvider$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ThemeProvider$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/styles/ThemeProvider.js [app-ssr] (ecmascript) <export default as ThemeProvider>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$styles$2f$createTheme$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$locals$3e$__$3c$export__default__as__createTheme$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/styles/createTheme.js [app-ssr] (ecmascript) <locals> <export default as createTheme>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid$2f$Grid$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Grid$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/Grid/Grid.js [app-ssr] (ecmascript) <export default as Grid>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Tabs$2f$Tabs$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Tabs$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/Tabs/Tabs.js [app-ssr] (ecmascript) <export default as Tabs>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Tab$2f$Tab$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Tab$3e$__ = __turbopack_context__.i("[project]/node_modules/@mui/material/Tab/Tab.js [app-ssr] (ecmascript) <export default as Tab>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$ArrowUpward$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@mui/icons-material/esm/ArrowUpward.js [app-ssr] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$InsertDriveFile$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@mui/icons-material/esm/InsertDriveFile.js [app-ssr] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$CloudDownload$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/@mui/icons-material/esm/CloudDownload.js [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$jspdf$2f$dist$2f$jspdf$2e$es$2e$min$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/jspdf/dist/jspdf.es.min.js [app-ssr] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$jspdf$2d$autotable$2f$dist$2f$jspdf$2e$plugin$2e$autotable$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/jspdf-autotable/dist/jspdf.plugin.autotable.mjs [app-ssr] (ecmascript)");
 ;
 ;
 ;
 ;
 ;
+;
+;
+;
+// Tema personalizado para el modal
+const modalTheme = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$styles$2f$createTheme$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$locals$3e$__$3c$export__default__as__createTheme$3e$__["createTheme"])({
+    palette: {
+        primary: {
+            main: '#1976d2'
+        },
+        secondary: {
+            main: '#2e7d32'
+        },
+        background: {
+            default: '#f5f7fa',
+            paper: '#ffffff'
+        }
+    },
+    typography: {
+        fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
+        h6: {
+            fontWeight: 600
+        }
+    },
+    components: {
+        MuiButton: {
+            styleOverrides: {
+                root: {
+                    borderRadius: 8,
+                    textTransform: 'none',
+                    fontWeight: 600
+                }
+            }
+        },
+        MuiPaper: {
+            styleOverrides: {
+                root: {
+                    borderRadius: 8,
+                    boxShadow: '0 4px 12px rgba(0,0,0,0.1)'
+                }
+            }
+        }
+    }
+});
+// Plantilla base para los reportes
+const reportTemplates = {
+    basic: {
+        title: "Reporte de Minería de Datos",
+        headerColor: "#1976d2",
+        sections: [
+            {
+                title: "Resumen",
+                type: "text"
+            },
+            {
+                title: "Datos de Irradiancia",
+                type: "data",
+                key: "irradiance"
+            },
+            {
+                title: "Datos de Voltaje",
+                type: "data",
+                key: "voltage"
+            },
+            {
+                title: "Datos de Ambiente",
+                type: "data",
+                key: "environment"
+            }
+        ]
+    },
+    detailed: {
+        title: "Análisis Detallado de Datos",
+        headerColor: "#2e7d32",
+        sections: [
+            {
+                title: "Resumen Ejecutivo",
+                type: "text"
+            },
+            {
+                title: "Análisis de Irradiancia",
+                type: "data",
+                key: "irradiance"
+            },
+            {
+                title: "Análisis de Voltaje",
+                type: "data",
+                key: "voltage"
+            },
+            {
+                title: "Análisis de Ambiente",
+                type: "data",
+                key: "environment"
+            },
+            {
+                title: "Recomendaciones",
+                type: "text"
+            }
+        ]
+    }
+};
+// Datos simulados para pruebas
+const sampleData = {
+    irradiance: {
+        labels: [
+            "Ene",
+            "Feb",
+            "Mar",
+            "Abr",
+            "May"
+        ],
+        values: [
+            750,
+            800,
+            820,
+            780,
+            840
+        ],
+        min: 750,
+        max: 840,
+        avg: 798,
+        unit: "W/m²"
+    },
+    voltage: {
+        labels: [
+            "Ene",
+            "Feb",
+            "Mar",
+            "Abr",
+            "May"
+        ],
+        values: [
+            120,
+            122,
+            119,
+            121,
+            120
+        ],
+        min: 119,
+        max: 122,
+        avg: 120.4,
+        unit: "V"
+    },
+    environment: {
+        temperature: {
+            labels: [
+                "Ene",
+                "Feb",
+                "Mar",
+                "Abr",
+                "May"
+            ],
+            values: [
+                25,
+                27,
+                30,
+                28,
+                32
+            ],
+            min: 25,
+            max: 32,
+            avg: 28.4,
+            unit: "°C"
+        },
+        humidity: {
+            labels: [
+                "Ene",
+                "Feb",
+                "Mar",
+                "Abr",
+                "May"
+            ],
+            values: [
+                45,
+                52,
+                48,
+                50,
+                55
+            ],
+            min: 45,
+            max: 55,
+            avg: 50,
+            unit: "%"
+        }
+    }
+};
+// Componente principal
 const ReportModal = ({ open, onClose })=>{
     const [loading, setLoading] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(false);
     const [reportText, setReportText] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])("");
     const [pdfList, setPdfList] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])([]);
     const [upgrading, setUpgrading] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(null);
     const [upgradeText, setUpgradeText] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])("");
+    const [activeTab, setActiveTab] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(0);
+    const [selectedTemplate, setSelectedTemplate] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(reportTemplates.basic);
+    // Cargar datos desde localStorage al iniciar
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useEffect"])(()=>{
+        const savedReports = localStorage.getItem('reports');
+        if (savedReports) {
+            setPdfList(JSON.parse(savedReports));
+        }
+    }, []);
+    // Guardar en localStorage cuando cambia pdfList
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useEffect"])(()=>{
+        if (pdfList.length > 0) {
+            localStorage.setItem('reports', JSON.stringify(pdfList));
+        }
+    }, [
+        pdfList
+    ]);
+    // Función que simula un webhook para obtener datos en tiempo real
+    const fetchDataFromWebhook = async ()=>{
+        // En un caso real, esta función haría una petición a una API
+        // Por ahora, simularemos con un timeout y datos de muestra
+        return new Promise((resolve)=>{
+            setTimeout(()=>{
+                // Aquí se procesarían los datos del webhook
+                resolve({
+                    success: true,
+                    data: sampleData,
+                    message: "Datos obtenidos correctamente"
+                });
+            }, 1500);
+        });
+    };
+    // Analiza argumentos en el texto para personalizar el reporte
+    const parseArguments = (text)=>{
+        const args = {};
+        // Buscar parámetros en formato [clave:valor]
+        const regex = /\[([^:]+):([^\]]+)\]/g;
+        let match;
+        while((match = regex.exec(text)) !== null){
+            const key = match[1].trim();
+            const value = match[2].trim();
+            args[key] = value;
+            // Remover el argumento del texto original
+            text = text.replace(match[0], '');
+        }
+        return {
+            cleanText: text.trim(),
+            args
+        };
+    };
+    const handleTabChange = (_event, newValue)=>{
+        setActiveTab(newValue);
+    };
+    const handleTemplateChange = (template)=>{
+        setSelectedTemplate(reportTemplates[template]);
+    };
     const generateReport = async ()=>{
         setLoading(true);
-        setReportText("Generando reporte...");
-        setTimeout(()=>{
-            const report = `Reporte generado: Datos analizados correctamente.`;
-            setReportText(report);
-            const doc = new __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$jspdf$2f$dist$2f$jspdf$2e$es$2e$min$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsPDF"]();
-            doc.text(report, 10, 10);
-            const pdfName = `Reporte_${pdfList.length + 1}.pdf`;
-            doc.save(pdfName);
-            setPdfList([
-                ...pdfList,
-                {
+        setReportText("Obteniendo datos para el reporte...");
+        try {
+            // Simular obtención de datos desde webhook
+            const response = await fetchDataFromWebhook();
+            if (response.success) {
+                const reportData = response.data;
+                // Generar texto de reporte
+                const reportDate = new Date().toLocaleDateString('es-ES', {
+                    year: 'numeric',
+                    month: 'long',
+                    day: 'numeric'
+                });
+                const report = `Reporte generado el ${reportDate}: Análisis de irradiancia (${reportData.irradiance.min}-${reportData.irradiance.max} ${reportData.irradiance.unit}), voltaje (${reportData.voltage.min}-${reportData.voltage.max} ${reportData.voltage.unit}) y condiciones ambientales (temperatura ${reportData.environment.temperature.avg}${reportData.environment.temperature.unit}).`;
+                setReportText(report);
+                // Crear ID único para el reporte
+                const reportId = `report_${Date.now()}`;
+                const pdfName = `Reporte_${pdfList.length + 1}.pdf`;
+                // Crear nuevo reporte
+                const newReport = {
+                    id: reportId,
                     name: pdfName,
                     version: 1,
-                    content: report
-                }
-            ]);
+                    content: report,
+                    data: JSON.parse(JSON.stringify(reportData)),
+                    template: selectedTemplate,
+                    createdAt: new Date().toISOString()
+                };
+                // Generar PDF
+                generatePDF(newReport);
+                // Actualizar lista de reportes
+                setPdfList([
+                    ...pdfList,
+                    newReport
+                ]);
+            } else {
+                setReportText("Error al obtener datos para el reporte");
+            }
+        } catch (error) {
+            console.error("Error al generar reporte:", error);
+            setReportText("Error al generar el reporte");
+        } finally{
             setLoading(false);
-        }, 2000);
+        }
     };
-    const handleUpgrade = (index)=>{
-        setUpgrading(index);
-        setUpgradeText(pdfList[index].content);
+    const generatePDF = (report)=>{
+        const doc = new __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$jspdf$2f$dist$2f$jspdf$2e$es$2e$min$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsPDF"]();
+        // Aplicar diseño según plantilla
+        doc.setFillColor(report.template.headerColor);
+        doc.rect(0, 0, 210, 20, 'F');
+        doc.setTextColor(255, 255, 255);
+        doc.setFontSize(16);
+        doc.text(report.template.title, 105, 15, {
+            align: "center"
+        });
+        // Extraer argumentos del texto si existen
+        const { cleanText, args } = parseArguments(report.content);
+        // Contenido principal
+        doc.setTextColor(0, 0, 0);
+        doc.setFontSize(12);
+        let yPosition = 30;
+        // Aplicar secciones según la plantilla
+        report.template.sections.forEach((section)=>{
+            doc.setFontSize(14);
+            doc.setTextColor(0, 102, 204);
+            doc.text(section.title, 20, yPosition);
+            yPosition += 10;
+            doc.setTextColor(0, 0, 0);
+            doc.setFontSize(10);
+            if (section.type === "text") {
+                // Para secciones de texto
+                if (section.title === "Resumen" || section.title === "Resumen Ejecutivo") {
+                    const splitText = doc.splitTextToSize(cleanText, 170);
+                    doc.text(splitText, 20, yPosition);
+                    yPosition += splitText.length * 6 + 10;
+                } else if (section.title === "Recomendaciones" && args.recomendaciones) {
+                    const recomendaciones = doc.splitTextToSize(args.recomendaciones, 170);
+                    doc.text(recomendaciones, 20, yPosition);
+                    yPosition += recomendaciones.length * 6 + 10;
+                }
+            } else if (section.type === "data" && section.key) {
+                // Para secciones de datos
+                const keyPath = section.key.split('.');
+                let sectionData = report.data;
+                // Acceder a los datos según la ruta de la clave
+                for (const key of keyPath){
+                    if (sectionData && key in sectionData) {
+                        sectionData = sectionData[key];
+                    }
+                }
+                // Verificar si tenemos datos para esta sección
+                if (sectionData) {
+                    if (section.key === "environment") {
+                        // Caso especial para datos de ambiente que tienen subgrupos
+                        Object.entries(sectionData).forEach(([subKey, subData])=>{
+                            doc.setFontSize(12);
+                            doc.text(`${subKey.charAt(0).toUpperCase() + subKey.slice(1)}:`, 25, yPosition);
+                            yPosition += 6;
+                            doc.setFontSize(10);
+                            doc.text(`Mín: ${subData.min}${subData.unit} | Máx: ${subData.max}${subData.unit} | Promedio: ${subData.avg}${subData.unit}`, 30, yPosition);
+                            yPosition += 10;
+                        });
+                    } else {
+                        // Para datos simples
+                        doc.text(`Mín: ${sectionData.min}${sectionData.unit} | Máx: ${sectionData.max}${sectionData.unit} | Promedio: ${sectionData.avg}${sectionData.unit}`, 25, yPosition);
+                        yPosition += 15;
+                    }
+                }
+            }
+        });
+        // Añadir pie de página
+        const pageCount = doc.getNumberOfPages();
+        for(let i = 1; i <= pageCount; i++){
+            doc.setPage(i);
+            doc.setFontSize(8);
+            doc.setTextColor(128, 128, 128);
+            doc.text(`Generado el ${new Date().toLocaleDateString()} - Página ${i} de ${pageCount}`, 105, 287, {
+                align: 'center'
+            });
+        }
+        // Guardar PDF
+        doc.save(report.name);
     };
+    // Función para iniciar la edición de un reporte
+    const handleUpgrade = (reportId)=>{
+        const reportIndex = pdfList.findIndex((report)=>report.id === reportId);
+        if (reportIndex !== -1) {
+            setUpgrading(reportId);
+            setUpgradeText(pdfList[reportIndex].content);
+        }
+    };
+    // Función para aplicar la actualización de un reporte
     const handleUpgradeSubmit = async ()=>{
-        const pdf = pdfList[upgrading];
-        setTimeout(()=>{
-            const improvedReport = `${pdf.content} (Mejorado con más detalles)`;
-            const updatedPdf = [
+        if (!upgrading) return;
+        const reportIndex = pdfList.findIndex((report)=>report.id === upgrading);
+        if (reportIndex === -1) return;
+        const report = pdfList[reportIndex];
+        setLoading(true);
+        try {
+            // Extraer argumentos del texto actualizado
+            const { cleanText, args } = parseArguments(upgradeText);
+            // Actualizar el reporte
+            const updatedReport = {
+                ...report,
+                content: upgradeText,
+                version: report.version + 1
+            };
+            // Actualizar la lista de reportes
+            const updatedList = [
                 ...pdfList
             ];
-            updatedPdf[upgrading] = {
-                ...pdf,
-                content: improvedReport,
-                version: pdf.version + 1
-            };
-            setPdfList(updatedPdf);
-            const doc = new __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$jspdf$2f$dist$2f$jspdf$2e$es$2e$min$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsPDF"]();
-            doc.text(improvedReport, 10, 10);
-            doc.save(`Reporte_${pdf.name.split("_")[1].replace(".pdf", "")}_v${pdf.version + 1}.pdf`);
+            updatedList[reportIndex] = updatedReport;
+            setPdfList(updatedList);
+            // Regenerar el PDF
+            generatePDF(updatedReport);
+            // Limpiar estado
             setUpgrading(null);
             setUpgradeText("");
-        }, 2000);
+        } catch (error) {
+            console.error("Error al actualizar reporte:", error);
+        } finally{
+            setLoading(false);
+        }
     };
-    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Modal$2f$Modal$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Modal$3e$__["Modal"], {
-        open: open,
-        onClose: onClose,
-        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "text-black",
-            style: {
-                padding: "20px",
-                backgroundColor: "#fff",
-                width: "500px",
-                margin: "50px auto",
-                borderRadius: "8px"
-            },
-            children: [
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
-                    variant: "h6",
-                    children: "Generador de Reportes"
-                }, void 0, false, {
-                    fileName: "[project]/src/app/components/ModalResumen.tsx",
-                    lineNumber: 57,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Button$2f$Button$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Button$3e$__["Button"], {
-                    variant: "contained",
-                    onClick: generateReport,
-                    disabled: loading,
-                    fullWidth: true,
-                    children: loading ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$CircularProgress$2f$CircularProgress$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__CircularProgress$3e$__["CircularProgress"], {
-                        size: 24
+    // Formatear fecha para mostrar
+    const formatDate = (dateString)=>{
+        const date = new Date(dateString);
+        return date.toLocaleDateString('es-ES', {
+            year: 'numeric',
+            month: 'short',
+            day: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit'
+        });
+    };
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$styles$2f$ThemeProvider$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ThemeProvider$3e$__["ThemeProvider"], {
+        theme: modalTheme,
+        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Modal$2f$Modal$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Modal$3e$__["Modal"], {
+            open: open,
+            onClose: onClose,
+            "aria-labelledby": "report-modal-title",
+            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Paper$2f$Paper$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Paper$3e$__["Paper"], {
+                elevation: 3,
+                sx: {
+                    position: 'absolute',
+                    top: '50%',
+                    left: '50%',
+                    transform: 'translate(-50%, -50%)',
+                    width: {
+                        xs: '90%',
+                        sm: '80%',
+                        md: '700px'
+                    },
+                    maxHeight: '85vh',
+                    overflow: 'auto',
+                    p: 3,
+                    bgcolor: 'background.paper',
+                    borderRadius: 2
+                },
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                        variant: "h5",
+                        component: "h2",
+                        id: "report-modal-title",
+                        gutterBottom: true,
+                        children: "Generador de Reportes Avanzado"
                     }, void 0, false, {
                         fileName: "[project]/src/app/components/ModalResumen.tsx",
-                        lineNumber: 60,
-                        columnNumber: 22
-                    }, this) : "Generar Reporte"
-                }, void 0, false, {
-                    fileName: "[project]/src/app/components/ModalResumen.tsx",
-                    lineNumber: 59,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$List$2f$List$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__List$3e$__["List"], {
-                    children: pdfList.map((pdf, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$ListItem$2f$ListItem$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ListItem$3e$__["ListItem"], {
-                            style: {
-                                marginTop: "10px"
-                            },
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$ListItemText$2f$ListItemText$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ListItemText$3e$__["ListItemText"], {
-                                    primary: pdf.name,
-                                    secondary: `Versión: ${pdf.version}`
-                                }, void 0, false, {
+                        lineNumber: 443,
+                        columnNumber: 11
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Divider$2f$Divider$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Divider$3e$__["Divider"], {
+                        sx: {
+                            my: 2
+                        }
+                    }, void 0, false, {
+                        fileName: "[project]/src/app/components/ModalResumen.tsx",
+                        lineNumber: 447,
+                        columnNumber: 11
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Tabs$2f$Tabs$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Tabs$3e$__["Tabs"], {
+                        value: activeTab,
+                        onChange: handleTabChange,
+                        sx: {
+                            mb: 3
+                        },
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Tab$2f$Tab$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Tab$3e$__["Tab"], {
+                                label: "Generar Reporte",
+                                icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$CloudDownload$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                                     fileName: "[project]/src/app/components/ModalResumen.tsx",
-                                    lineNumber: 66,
-                                    columnNumber: 15
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$IconButton$2f$IconButton$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__IconButton$3e$__["IconButton"], {
-                                    onClick: ()=>handleUpgrade(index),
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$ArrowUpward$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+                                    lineNumber: 450,
+                                    columnNumber: 48
+                                }, void 0),
+                                iconPosition: "start"
+                            }, void 0, false, {
+                                fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                lineNumber: 450,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Tab$2f$Tab$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Tab$3e$__["Tab"], {
+                                label: "Mis Reportes",
+                                icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$InsertDriveFile$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+                                    fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                    lineNumber: 451,
+                                    columnNumber: 45
+                                }, void 0),
+                                iconPosition: "start"
+                            }, void 0, false, {
+                                fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                lineNumber: 451,
+                                columnNumber: 13
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/src/app/components/ModalResumen.tsx",
+                        lineNumber: 449,
+                        columnNumber: 11
+                    }, this),
+                    activeTab === 0 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Paper$2f$Paper$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Paper$3e$__["Paper"], {
+                                variant: "outlined",
+                                sx: {
+                                    p: 2,
+                                    mb: 3
+                                },
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                        variant: "subtitle1",
+                                        gutterBottom: true,
+                                        children: "Seleccionar plantilla:"
+                                    }, void 0, false, {
                                         fileName: "[project]/src/app/components/ModalResumen.tsx",
-                                        lineNumber: 68,
+                                        lineNumber: 457,
+                                        columnNumber: 17
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid$2f$Grid$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Grid$3e$__["Grid"], {
+                                        container: true,
+                                        spacing: 2,
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid$2f$Grid$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Grid$3e$__["Grid"], {
+                                                item: true,
+                                                xs: 12,
+                                                sm: 6,
+                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Paper$2f$Paper$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Paper$3e$__["Paper"], {
+                                                    elevation: selectedTemplate === reportTemplates.basic ? 3 : 1,
+                                                    onClick: ()=>handleTemplateChange('basic'),
+                                                    sx: {
+                                                        p: 2,
+                                                        cursor: 'pointer',
+                                                        border: selectedTemplate === reportTemplates.basic ? '2px solid #1976d2' : 'none',
+                                                        transition: 'all 0.2s',
+                                                        '&:hover': {
+                                                            elevation: 3
+                                                        }
+                                                    },
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                                            variant: "subtitle1",
+                                                            fontWeight: 600,
+                                                            color: "primary",
+                                                            children: "Plantilla Básica"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                            lineNumber: 474,
+                                                            columnNumber: 23
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                                            variant: "body2",
+                                                            color: "text.secondary",
+                                                            children: "Formato estándar con secciones para resumen y datos principales."
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                            lineNumber: 477,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                    lineNumber: 463,
+                                                    columnNumber: 21
+                                                }, this)
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                lineNumber: 462,
+                                                columnNumber: 19
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Grid$2f$Grid$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Grid$3e$__["Grid"], {
+                                                item: true,
+                                                xs: 12,
+                                                sm: 6,
+                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Paper$2f$Paper$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Paper$3e$__["Paper"], {
+                                                    elevation: selectedTemplate === reportTemplates.detailed ? 3 : 1,
+                                                    onClick: ()=>handleTemplateChange('detailed'),
+                                                    sx: {
+                                                        p: 2,
+                                                        cursor: 'pointer',
+                                                        border: selectedTemplate === reportTemplates.detailed ? '2px solid #2e7d32' : 'none',
+                                                        transition: 'all 0.2s',
+                                                        '&:hover': {
+                                                            elevation: 3
+                                                        }
+                                                    },
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                                            variant: "subtitle1",
+                                                            fontWeight: 600,
+                                                            color: "secondary",
+                                                            children: "Plantilla Detallada"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                            lineNumber: 495,
+                                                            columnNumber: 23
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                                            variant: "body2",
+                                                            color: "text.secondary",
+                                                            children: "Formato extendido con análisis detallado y recomendaciones."
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                            lineNumber: 498,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                    lineNumber: 484,
+                                                    columnNumber: 21
+                                                }, this)
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                lineNumber: 483,
+                                                columnNumber: 19
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                        lineNumber: 461,
                                         columnNumber: 17
                                     }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                lineNumber: 456,
+                                columnNumber: 15
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Button$2f$Button$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Button$3e$__["Button"], {
+                                variant: "contained",
+                                color: "primary",
+                                fullWidth: true,
+                                size: "large",
+                                onClick: generateReport,
+                                disabled: loading,
+                                startIcon: loading ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$CircularProgress$2f$CircularProgress$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__CircularProgress$3e$__["CircularProgress"], {
+                                    size: 20,
+                                    color: "inherit"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/ModalResumen.tsx",
-                                    lineNumber: 67,
-                                    columnNumber: 15
+                                    lineNumber: 513,
+                                    columnNumber: 38
+                                }, void 0) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$CloudDownload$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+                                    fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                    lineNumber: 513,
+                                    columnNumber: 87
+                                }, void 0),
+                                sx: {
+                                    mb: 3
+                                },
+                                children: loading ? "Generando Reporte..." : "Generar Nuevo Reporte"
+                            }, void 0, false, {
+                                fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                lineNumber: 506,
+                                columnNumber: 15
+                            }, this),
+                            reportText && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Paper$2f$Paper$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Paper$3e$__["Paper"], {
+                                variant: "outlined",
+                                sx: {
+                                    p: 2,
+                                    mb: 3,
+                                    bgcolor: 'rgba(25, 118, 210, 0.05)'
+                                },
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                        variant: "subtitle2",
+                                        color: "primary",
+                                        gutterBottom: true,
+                                        children: "Vista previa:"
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                        lineNumber: 521,
+                                        columnNumber: 19
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                        variant: "body1",
+                                        children: reportText
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                        lineNumber: 524,
+                                        columnNumber: 19
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                lineNumber: 520,
+                                columnNumber: 17
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                variant: "body2",
+                                color: "text.secondary",
+                                sx: {
+                                    mt: 2
+                                },
+                                children: "Puedes añadir argumentos especiales en formato [clave:valor] cuando edites un reporte para personalizar secciones específicas."
+                            }, void 0, false, {
+                                fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                lineNumber: 530,
+                                columnNumber: 15
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/src/app/components/ModalResumen.tsx",
+                        lineNumber: 455,
+                        columnNumber: 13
+                    }, this),
+                    activeTab === 1 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                        children: pdfList.length === 0 ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Paper$2f$Paper$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Paper$3e$__["Paper"], {
+                            sx: {
+                                p: 3,
+                                textAlign: 'center',
+                                bgcolor: 'rgba(0,0,0,0.02)'
+                            },
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                variant: "body1",
+                                color: "text.secondary",
+                                children: 'No hay reportes generados aún. Crea tu primer reporte desde la pestaña "Generar Reporte".'
+                            }, void 0, false, {
+                                fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                lineNumber: 540,
+                                columnNumber: 19
+                            }, this)
+                        }, void 0, false, {
+                            fileName: "[project]/src/app/components/ModalResumen.tsx",
+                            lineNumber: 539,
+                            columnNumber: 17
+                        }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$List$2f$List$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__List$3e$__["List"], {
+                            sx: {
+                                bgcolor: 'background.paper',
+                                borderRadius: 1
+                            },
+                            children: pdfList.map((pdf, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Paper$2f$Paper$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Paper$3e$__["Paper"], {
+                                    elevation: 1,
+                                    sx: {
+                                        mb: 2,
+                                        overflow: 'hidden'
+                                    },
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$ListItem$2f$ListItem$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ListItem$3e$__["ListItem"], {
+                                        sx: {
+                                            borderLeft: `4px solid ${pdf.template.headerColor}`,
+                                            transition: 'all 0.2s'
+                                        },
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                                            sx: {
+                                                flexGrow: 1
+                                            },
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                                                    sx: {
+                                                        display: 'flex',
+                                                        justifyContent: 'space-between',
+                                                        alignItems: 'center'
+                                                    },
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                                            variant: "subtitle1",
+                                                            fontWeight: 600,
+                                                            children: pdf.name
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                            lineNumber: 560,
+                                                            columnNumber: 29
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Chip$2f$Chip$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Chip$3e$__["Chip"], {
+                                                            label: `v${pdf.version}`,
+                                                            size: "small",
+                                                            color: pdf.version > 1 ? "secondary" : "primary",
+                                                            variant: pdf.version > 1 ? "filled" : "outlined"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                            lineNumber: 563,
+                                                            columnNumber: 29
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                    lineNumber: 559,
+                                                    columnNumber: 27
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                                    variant: "body2",
+                                                    color: "text.secondary",
+                                                    sx: {
+                                                        mt: 0.5
+                                                    },
+                                                    children: [
+                                                        pdf.content.substring(0, 80),
+                                                        "..."
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                    lineNumber: 571,
+                                                    columnNumber: 27
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                                                    sx: {
+                                                        display: 'flex',
+                                                        mt: 1,
+                                                        alignItems: 'center'
+                                                    },
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                                            variant: "caption",
+                                                            color: "text.secondary",
+                                                            children: [
+                                                                "Creado: ",
+                                                                formatDate(pdf.createdAt)
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                            lineNumber: 576,
+                                                            columnNumber: 29
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                                                            sx: {
+                                                                ml: 'auto',
+                                                                display: 'flex'
+                                                            },
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$IconButton$2f$IconButton$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__IconButton$3e$__["IconButton"], {
+                                                                    size: "small",
+                                                                    color: "primary",
+                                                                    onClick: ()=>{
+                                                                        // Simular descarga del PDF existente
+                                                                        generatePDF(pdf);
+                                                                    },
+                                                                    sx: {
+                                                                        mr: 1
+                                                                    },
+                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$CloudDownload$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                                                        fontSize: "small"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                                        lineNumber: 590,
+                                                                        columnNumber: 33
+                                                                    }, this)
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                                    lineNumber: 581,
+                                                                    columnNumber: 31
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$IconButton$2f$IconButton$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__IconButton$3e$__["IconButton"], {
+                                                                    size: "small",
+                                                                    color: "secondary",
+                                                                    onClick: ()=>handleUpgrade(pdf.id),
+                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$ArrowUpward$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                                                        fontSize: "small"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                                        lineNumber: 598,
+                                                                        columnNumber: 33
+                                                                    }, this)
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                                    lineNumber: 593,
+                                                                    columnNumber: 31
+                                                                }, this)
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                            lineNumber: 580,
+                                                            columnNumber: 29
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                    lineNumber: 575,
+                                                    columnNumber: 27
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                            lineNumber: 558,
+                                            columnNumber: 25
+                                        }, this)
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                        lineNumber: 552,
+                                        columnNumber: 23
+                                    }, this)
+                                }, pdf.id, false, {
+                                    fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                    lineNumber: 547,
+                                    columnNumber: 21
+                                }, this))
+                        }, void 0, false, {
+                            fileName: "[project]/src/app/components/ModalResumen.tsx",
+                            lineNumber: 545,
+                            columnNumber: 17
+                        }, this)
+                    }, void 0, false, {
+                        fileName: "[project]/src/app/components/ModalResumen.tsx",
+                        lineNumber: 537,
+                        columnNumber: 13
+                    }, this),
+                    upgrading !== null && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                        sx: {
+                            mt: 3
+                        },
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Paper$2f$Paper$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Paper$3e$__["Paper"], {
+                            elevation: 2,
+                            sx: {
+                                p: 2
+                            },
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                    variant: "subtitle1",
+                                    fontWeight: 600,
+                                    gutterBottom: true,
+                                    children: "Editar Reporte"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                    lineNumber: 614,
+                                    columnNumber: 17
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Typography$2f$Typography$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Typography$3e$__["Typography"], {
+                                    variant: "caption",
+                                    color: "text.secondary",
+                                    paragraph: true,
+                                    children: "Puedes incluir argumentos especiales usando el formato [clave:valor]. Por ejemplo: [recomendaciones:Revisar niveles de voltaje periódicamente]"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                    lineNumber: 618,
+                                    columnNumber: 17
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$TextField$2f$TextField$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__TextField$3e$__["TextField"], {
+                                    label: "Personalizar reporte",
+                                    fullWidth: true,
+                                    multiline: true,
+                                    rows: 4,
+                                    value: upgradeText,
+                                    onChange: (e)=>setUpgradeText(e.target.value),
+                                    sx: {
+                                        mb: 2
+                                    },
+                                    variant: "outlined"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                    lineNumber: 623,
+                                    columnNumber: 17
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Box$2f$Box$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Box$3e$__["Box"], {
+                                    sx: {
+                                        display: 'flex',
+                                        justifyContent: 'flex-end'
+                                    },
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Button$2f$Button$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Button$3e$__["Button"], {
+                                            onClick: ()=>setUpgrading(null),
+                                            sx: {
+                                                mr: 1
+                                            },
+                                            children: "Cancelar"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                            lineNumber: 635,
+                                            columnNumber: 19
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Button$2f$Button$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Button$3e$__["Button"], {
+                                            onClick: handleUpgradeSubmit,
+                                            variant: "contained",
+                                            color: "secondary",
+                                            startIcon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$icons$2d$material$2f$esm$2f$ArrowUpward$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+                                                fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                lineNumber: 646,
+                                                columnNumber: 32
+                                            }, void 0),
+                                            disabled: loading,
+                                            children: loading ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$CircularProgress$2f$CircularProgress$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__CircularProgress$3e$__["CircularProgress"], {
+                                                size: 24
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                                lineNumber: 649,
+                                                columnNumber: 32
+                                            }, this) : "Actualizar y Generar"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                            lineNumber: 642,
+                                            columnNumber: 19
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/app/components/ModalResumen.tsx",
+                                    lineNumber: 634,
+                                    columnNumber: 17
                                 }, this)
                             ]
-                        }, index, true, {
+                        }, void 0, true, {
                             fileName: "[project]/src/app/components/ModalResumen.tsx",
-                            lineNumber: 65,
-                            columnNumber: 13
-                        }, this))
-                }, void 0, false, {
-                    fileName: "[project]/src/app/components/ModalResumen.tsx",
-                    lineNumber: 63,
-                    columnNumber: 9
-                }, this),
-                upgrading !== null && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$TextField$2f$TextField$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__TextField$3e$__["TextField"], {
-                            label: "Reescribir el reporte",
-                            fullWidth: true,
-                            multiline: true,
-                            rows: 4,
-                            value: upgradeText,
-                            onChange: (e)=>setUpgradeText(e.target.value),
-                            style: {
-                                marginBottom: "10px"
-                            }
-                        }, void 0, false, {
-                            fileName: "[project]/src/app/components/ModalResumen.tsx",
-                            lineNumber: 76,
-                            columnNumber: 13
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$mui$2f$material$2f$Button$2f$Button$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Button$3e$__["Button"], {
-                            onClick: handleUpgradeSubmit,
-                            variant: "contained",
-                            color: "primary",
-                            children: "Mejorar Reporte"
-                        }, void 0, false, {
-                            fileName: "[project]/src/app/components/ModalResumen.tsx",
-                            lineNumber: 85,
-                            columnNumber: 13
+                            lineNumber: 613,
+                            columnNumber: 15
                         }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "[project]/src/app/components/ModalResumen.tsx",
-                    lineNumber: 75,
-                    columnNumber: 11
-                }, this)
-            ]
-        }, void 0, true, {
+                    }, void 0, false, {
+                        fileName: "[project]/src/app/components/ModalResumen.tsx",
+                        lineNumber: 612,
+                        columnNumber: 13
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/src/app/components/ModalResumen.tsx",
+                lineNumber: 428,
+                columnNumber: 9
+            }, this)
+        }, void 0, false, {
             fileName: "[project]/src/app/components/ModalResumen.tsx",
-            lineNumber: 56,
+            lineNumber: 423,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/components/ModalResumen.tsx",
-        lineNumber: 55,
+        lineNumber: 422,
         columnNumber: 5
     }, this);
 };
